@@ -7,4 +7,6 @@ const getDateAfterXDays = (days) => {
   }-${newDate.getFullYear()}`;
 };
 //this is new line
+//this is second line
+
 module.exports = getDateAfterXDays;
